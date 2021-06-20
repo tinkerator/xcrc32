@@ -3,7 +3,7 @@
 ## Overview
 
 This package provides a CRC32 algorithm. It appears to be used in a
-number of embedding applications, expecially those built using tools
+number of embedded applications, expecially those built using tools
 like gcc and debugged with gdb. It is not obviously related to the
 standard
 [golang.org/pkg/hash/crc32](https://golang.org/pkg/hash/crc32/)
